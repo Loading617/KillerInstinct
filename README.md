@@ -1,2 +1,2 @@
-# KillerInstinct
+# Killer Instinct
 Killer Instinct Web Ported!
